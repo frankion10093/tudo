@@ -94,14 +94,13 @@ todo-list/
 
 ## 🔍 功能演示
 
-### 添加任务
-![添加任务](https://via.placeholder.com/400x200?text=Add+Todo)
+### 主页
+<img src="./asset/home.png">
+
 
 ### 完成任务
-![完成任务](https://via.placeholder.com/400x200?text=Complete+Todo)
+<img src="./asset/function.png">
 
-### 任务统计
-![任务统计](https://via.placeholder.com/400x200?text=Todo+Stats)
 
 ## 📖 API 文档
 
